@@ -2,7 +2,7 @@
 
 This script automates the process of emailing customized versions of the ProgressiveVotersGuide.com to the members of Fuse Washington.  We designed the ProgressiveVoterGuide website to generate the html content for the customized emails that we would then stage in our ActionKit install to send to our members.  
 
-<img src="./ak_mailer_bot.php" />
+<img src="./ak_mailer_bot.png" />
 
 ## Set Up
 
