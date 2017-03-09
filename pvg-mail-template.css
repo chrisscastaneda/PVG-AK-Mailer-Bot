@@ -1,0 +1,67 @@
+.dev-container {
+  min-height: 200px;
+}
+* {
+  font-family:Arial, Helvetica, sans-serif;
+}
+#message {
+  /*border:1px solid #f00;*/
+
+
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 5px;
+
+}
+
+#sample-ballot-container {
+  border: 1px solid #000;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top:10px;
+  margin-bottom:15px;
+  max-width: 620px;
+  
+}
+#sample-ballot {
+  border: 1px solid #000;
+  clear:both;
+  min-width: 590px;
+  max-width: 610px;
+}
+
+#sample-guide-container {
+  /*border: 1px solid #00f;*/
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  max-width: 620px;
+}
+.sample-ballot-race {
+  width:200px;
+  border:1px solid #000;
+  float:left;
+  clear:right;
+
+}
+.spacer { height: 100px; }
+.spacer2 { height: 50px; }
+.spacer3 { height: 300px; }
+
+.section-banner h2 {
+  font-size: 18px; 
+}
+.section-banner h3 {
+  font-size: 16px;
+}
+.powered-by-fuse {
+  float: right;
+  text-align: right;
+}
+.powered-by-fuse img {
+  height: 55px;
+}
