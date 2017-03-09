@@ -6,4 +6,4 @@ This script [`ak-pvg-mailer.php`](https://github.com/chrisscastaneda/PVG-AK-Mail
 
 ## Set Up
 
-Load this repo onto your local PHP server and load the page `ak-pvg-mailer.php`.  (Note: I would not recommend running this on a public accessible server on the Internet.  This was not built with security in mind. )
+Load this repo onto your local PHP server and load the page [`ak-pvg-mailer.php`](https://github.com/chrisscastaneda/PVG-AK-Mailer-Bot/blob/master/ak-pvg-mailer.php).  (Note: I would not recommend running this on a public accessible server on the Internet.  This was not built with security in mind. )
