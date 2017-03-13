@@ -91,7 +91,7 @@ if ( isset($_POST['subject']) && isset( $_POST['pvgurls'] )&& isset( $_POST['aku
     return $text;
   }
   function ak_rest_login( $user, $pass ){
-    #https://chris:1FthePnwa@fusewashington.actionkit.com/rest/v1/user/
+    #https://USER:PASS@fusewashington.actionkit.com/rest/v1/user/
     $url = 'https://fusewashington.actionkit.com/rest/v1/user/';
     $curl = curl_init();
     curl_setopt_array($curl, array(
